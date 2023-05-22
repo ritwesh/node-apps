@@ -1,0 +1,14 @@
+{
+  "name": "webhook_zoom",
+  "version": "1.0.0",
+  "description": "HTTPS API proxy for Zoom Webhooks~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}

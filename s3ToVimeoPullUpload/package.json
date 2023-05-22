@@ -1,0 +1,14 @@
+{
+  "name": "s3tovimeopullupload",
+  "version": "1.0.0",
+  "description": "An Amazon S3 trigger that retrieves metadata for the object that has been updated to make api request to vimeo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritwesh",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}

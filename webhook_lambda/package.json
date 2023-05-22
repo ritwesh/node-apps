@@ -1,0 +1,11 @@
+{
+  "name": "webhook_lambda",
+  "version": "1.0.0",
+  "description": "Code created for AWS lambda from sample nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritwesh Chatterjee",
+  "license": "ISC"
+}
